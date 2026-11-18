@@ -92,7 +92,7 @@ python3-pyc             3.12.16-r0        apk
 python3-pycache-pyc0    3.12.16-r0        apk                              
 rapidfuzz               3.14.6            python          (+1 duplicate)   
 readline                8.2.13-r1         apk                              
-regex                   2026.11.15        python                           
+regex                   2026.11.19        python                           
 requests                2.34.2            python                           
 resolvelib              1.2.1             python                           
 rich                    15.0.0            python                           
