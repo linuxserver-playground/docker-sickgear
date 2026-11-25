@@ -52,7 +52,7 @@ libbsd                  0.12.2-r0         apk
 libbz2                  1.0.8-r6          apk                              
 libcrypto3              3.5.9-r0          apk                              
 libcurl                 8.14.1-r4         apk                              
-libexpat                2.10.0-r0         apk                              
+libexpat                2.11.0-r0         apk                              
 libffi                  3.8.1-r0          apk                              
 libgcc                  14.2.0-r6         apk             (+1 duplicate)   
 libidn2                 2.3.7-r0          apk                              
@@ -93,7 +93,7 @@ python3-pyc             3.12.16-r0        apk
 python3-pycache-pyc0    3.12.16-r0        apk                              
 rapidfuzz               3.14.6            python          (+1 duplicate)   
 readline                8.2.13-r1         apk                              
-regex                   2026.11.23        python                           
+regex                   2026.11.24        python                           
 requests                2.34.2            python                           
 resolvelib              1.2.1             python                           
 rich                    15.0.0            python                           
