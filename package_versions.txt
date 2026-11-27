@@ -97,6 +97,7 @@ regex                   2026.11.25        python
 requests                2.34.2            python                           
 resolvelib              1.2.1             python                           
 rich                    15.0.0            python                           
+rtls                    2026.10.3         python                           
 scanelf                 1.3.8-r1          apk                              
 setuptools              70.3.0            python                           
 setuptools              84.2.1            python                           
@@ -111,6 +112,7 @@ truststore              0.10.5            python
 tzdata                  2026f-r0          apk                              
 urllib3                 2.8.0             python                           
 utmps-libs              0.1.3.1-r0        apk                              
+wassima                 2.1.5             python                           
 wheel                   0.46.3            python                           
 wheel                   0.48.0            python                           
 xz-libs                 5.8.4-r0          apk                              
